@@ -5,5 +5,5 @@ server:
 info:
   app:
     name: "Food Gateway"
-    description: "This is Food Service. We are developing Right now!"
+    description: "This is Food Service. We are developing Right now! Gitversion!"
     version: "1.0 Under Development"
