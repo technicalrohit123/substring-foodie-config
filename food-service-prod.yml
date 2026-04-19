@@ -1,0 +1,8 @@
+server:
+  port: 9099
+
+info:
+  app:
+    name: "Food Gateway"
+    description: "This is Food Service. Ready to serve User!"
+    version: "1.0 Under Production"

@@ -1,0 +1,9 @@
+server:
+  port: 9098
+
+
+info:
+  app:
+    name: "Food Gateway"
+    description: "This is Food Service. Ready to Test!"
+    version: "1.0 Under Testing"
