@@ -6,7 +6,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/substring_microservice
     username: root
-    password: root
+    password: "{cipher}6ac20fbff9713140106dab2c17ce5fa25a205e879e1d205b112300684de0a22d"
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
